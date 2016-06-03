@@ -1,0 +1,15 @@
+PODS:
+  - CorePlot (1.6)
+  - FlatUIKit (1.6.2)
+
+DEPENDENCIES:
+  - CorePlot (~> 1.5)
+  - FlatUIKit (~> 1.6.2)
+
+SPEC CHECKSUMS:
+  CorePlot: 820901f6c147f2d84549ffa1f0902869f980d74d
+  FlatUIKit: 1b41f0d4952ce8d970d8479ce79df54a960242c4
+
+PODFILE CHECKSUM: 9d5c2aed30fa21cb7dd958791d5e47a655c0461a
+
+COCOAPODS: 1.0.0

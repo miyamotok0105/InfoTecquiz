@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CorePlot.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>FlatUIKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>49B7679727883305CBBA041D97D25CD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7FE7CDCFA93C07A1BB5063FD814F439C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E916BBFE63EB5CF3718467548E808945</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F6369DCF9EF8959EE460063E1C27CF48</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FD6D4BB64624BB1B49B7B563E1992228</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
